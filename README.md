@@ -17,9 +17,7 @@ This project also serves as a **portfolio and learning showcase**, highlighting 
 
 ## 📷 Screenshot
 
-> Replace this with an actual screenshot of the site
-
-![Clever AI Screenshot](https://via.placeholder.com/1200x600.png?text=Clever+AI+Website+Screenshot)
+> soon..
 
 ---
 
